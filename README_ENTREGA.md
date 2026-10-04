@@ -2,6 +2,7 @@
 
 > **Modelo de README.** Copie este arquivo para o `README.md` do repositório do grupo e preencha
 > todas as seções. Apague as linhas de instrução (as citações iniciadas por `>`) antes de entregar.
+> A entrega é **obrigatoriamente o link deste repositório GitHub**, enviado no Google Classroom.
 
 **Disciplina:** Visão Computacional (VC001) — CESAR School, 2026.2
 **Integrantes:** Nome 1 (e-mail) · Nome 2 (e-mail) · Nome 3 (e-mail)

@@ -1,6 +1,9 @@
 # VC 2026.2 — Prática II - Classificação de Dígitos de Hidrômetros com AlexNet, VGG16 e ResNet
 
 **Disciplina:** Visão Computacional (VC001) — CESAR School, 2026.2
+**Unidade:** 04 — Reconhecimento de Objetos
+**Formato:** grupos de 3 pessoas
+**Duração:** 2 aulas + atividade extraclasse
 
 ## Objetivos
 
@@ -144,7 +147,14 @@ Escolha um:
 
 ## Entrega
 
-Repositório GitHub do grupo, com o link enviado no Google Classroom até a data informada, contendo:
+**O entregável é obrigatoriamente o link para o repositório GitHub do grupo**, enviado no Google Classroom até a data informada.
+
+- Um único link por grupo, apontando para o repositório (`https://github.com/<usuario>/<repositorio>`).
+- O repositório deve estar acessível ao professor (público ou com o professor adicionado como colaborador).
+- Entregas em qualquer outro formato (arquivo anexado, `.zip`, notebook avulso, link do Drive ou do Colab) **não serão aceitas**.
+- Será avaliado o estado do repositório no prazo de entrega; commits posteriores não serão considerados.
+
+O repositório deve conter:
 
 - notebook executado (sem imagens do dataset nas saídas);
 - `splits.csv` oficial, `results.csv`, `history_*.csv` e a pasta `figures/`;
@@ -194,6 +204,7 @@ Não versionar: dataset, recortes, checkpoints, `kaggle.json`.
 
 | Situação | Penalidade |
 |---|---|
+| Entrega que não seja o link de um repositório GitHub acessível | Entrega não aceita |
 | Vazamento entre splits | Zera o item de protocolo (25%) |
 | Uso de modelos sem ser os citados | −30% da nota final |
 | Imagens do dataset, recortes ou checkpoints versionados | −10% da nota final |
