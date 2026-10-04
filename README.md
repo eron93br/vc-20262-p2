@@ -1,9 +1,5 @@
 # VC 2026.2 — Prática II - Classificação de Dígitos de Hidrômetros com AlexNet, VGG16 e ResNet
 
-**Disciplina:** Visão Computacional (VC001) — CESAR School, 2026.2
-**Unidade:** 04 — Reconhecimento de Objetos
-**Formato:** grupos de 3 pessoas
-**Duração:** 2 aulas + atividade extraclasse
 
 ## Objetivos
 
